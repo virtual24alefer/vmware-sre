@@ -1,0 +1,25 @@
+# Work_Sample_Simulation
+
+It is a simple bash script to look for an specific IP address on sshd log.
+
+
+#############################################################################
+
+The script should will  display a count of login attempts from an IP address, where the <ip-address>
+is the input variable that can be passed in to search through a ssh log file.
+
+###############################################################################
+
+
+The script will follow these steps:
+
+1) Define the log file to use 
+2) Get the ip address from user input 
+3) Count the number of login attemtps for the specific IP address 
+4) Display the result to user output
+
+
+For any issues, contact helloit@helloyou.com
+
+
+

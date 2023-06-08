@@ -1,0 +1,41 @@
+Internal Tool Coding Exercise
+
+---> Overview
+Internal Tooling Search Script: In this exercise, develop a tooling script for an on-call login abuse
+incident. The script should display a count of login attempts from an IP address, where the <ip-address>
+is the input variable that can be passed in to search through a ssh log file.
+Candidate Instructions
+Choose a computer scripting language (Python, GoLang, NodeJs, Bash, etc.) development environment
+you're most comfortable with. The sample Log and IP Address are provided below. Be prepared to
+discuss your submission.
+
+Sample Log: View attach SSH Sample Logs Sample Input Values: IP addresses 112.95.230.3 ,
+103.99.0.122 .
+
+Be prepared to talk about your submission; you and one of our engineers will be walking through it.
+
+
+---> Time Permitting
+If you don't have the time, don't worry about it; however, please be prepared to discuss how you might:
+• Create and Share Test Case Output
+• Scalability and Efficiencies
+• Readability
+
+
+---> Final Deliverable
+Please create a pull/merge request with the following:
+• Title the MR the script "Work Sample Simulation"
+• Scripting Solution
+• A Brief How To Use - ReadMe
+There is no need to email the assignment; be ready to discuss the MR during the interview.
+
+---> Time to Complete
+The recommended time to prepare you presentation is less than 1 hour. If you can't complete the
+exercise in this time, please share what you have as a basis for a discussion.
+
+Work Sample Simulation Interview Structure and Details
+
+Schedule:
+• 5 minutes: Introductions
+• 30 minutes: Discuss code and assumptions/alternatives
+• 10 minutes: Q&A
